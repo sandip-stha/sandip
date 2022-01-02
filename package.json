@@ -1,0 +1,37 @@
+{
+  "name": "store-app",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@emmetio/html-transform": "0.3.10",
+    "@emmetio/markup-formatters": "0.4.1",
+    "@emmetio/snippets": "0.2.12",
+    "bootstrap": "4.5.3",
+    "emmet": "2.1.6",
+    "font-awesome": "4.7.0",
+    "react": "16.14.0",
+    "react-burger-menu": "2.9.0",
+    "react-dom": "16.14.0",
+    "react-paypal-express-checkout": "1.0.5",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "3.4.3",
+    "styled-components": "5.2.0"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
